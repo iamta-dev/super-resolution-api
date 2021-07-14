@@ -1,0 +1,10 @@
+# dependencies
+output_face.jpg
+output_img.jpg
+decoded_image.png
+90000_G.pth
+200000_G.pth
+shape_predictor_68_face_landmarks.dat
+
+# misc
+.DS_Store
