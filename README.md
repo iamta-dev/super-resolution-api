@@ -28,3 +28,9 @@ pip install dlib
 
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
+
+### start api
+
+```
+python api.py
+```
