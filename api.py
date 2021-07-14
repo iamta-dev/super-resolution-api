@@ -30,7 +30,7 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 #------------------------------
 #Service API Interface
-@app.route('/superResolution', methods=['POST'])
+@app.route('/super-resolution', methods=['POST'])
 def superResolution():
 
 	req = request.get_json()
